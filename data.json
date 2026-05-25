@@ -61,23 +61,13 @@
       "active": true
     },
     {
-      "id": "c_d47dqxzmpl39iaj",
-      "name": "Chalet Rosario",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "order": 7,
-      "active": true
-    },
-    {
       "id": "c_zjoqa3qmpl3axma",
       "name": "Jubenial ",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
-      "order": 8,
+      "order": 7,
       "active": true
     },
     {
@@ -87,6 +77,16 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": "c_d47dqxzmpl39iaj",
+      "name": "Chalet Rosario",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
       "order": 9,
       "active": true
     },
