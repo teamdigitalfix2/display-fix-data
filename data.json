@@ -71,22 +71,22 @@
       "active": true
     },
     {
-      "id": "c_cdh4zjumpl3amwj",
-      "name": "EXP Realty",
-      "type": "image",
-      "duration": 20,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
-      "order": 8,
-      "active": true
-    },
-    {
       "id": "c_zjoqa3qmpl3axma",
       "name": "Jubenial ",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": "c_cdh4zjumpl3amwj",
+      "name": "EXP Realty",
+      "type": "image",
+      "duration": 20,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
       "order": 9,
       "active": true
     },
