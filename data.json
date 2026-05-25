@@ -171,24 +171,5 @@
       "active": true
     }
   ],
-  "solicitudes": [
-    {
-      "id": "req_1hrxi3hmpl3reli",
-      "createdAt": "2026-05-25T11:07:55.686Z",
-      "type": "delete",
-      "contentId": "c_1qdk17ompl3d33a",
-      "contentName": "seag video 2 ",
-      "message": "Solicita eliminar \"seag video 2 \"",
-      "status": "pending"
-    },
-    {
-      "id": "req_uq6i1utmpl3reli",
-      "createdAt": "2026-05-25T11:07:55.686Z",
-      "type": "delete",
-      "contentId": "c_zjoqa3qmpl3axma",
-      "contentName": "Jubenial ",
-      "message": "Solicita eliminar \"Jubenial \"",
-      "status": "pending"
-    }
-  ]
+  "solicitudes": []
 }
