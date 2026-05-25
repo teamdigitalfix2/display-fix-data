@@ -31,13 +31,23 @@
       "active": true
     },
     {
+      "id": "c_z2suhgtmpl3csx7",
+      "name": "seag video 1",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "order": 4,
+      "active": true
+    },
+    {
       "id": "c_1ey3vvimpl3a7v3",
       "name": "Descubre VVA",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
-      "order": 4,
+      "order": 5,
       "active": true
     },
     {
@@ -47,7 +57,7 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
-      "order": 5,
+      "order": 6,
       "active": true
     },
     {
@@ -57,7 +67,7 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
-      "order": 6,
+      "order": 7,
       "active": true
     },
     {
@@ -67,16 +77,6 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
-      "order": 7,
-      "active": true
-    },
-    {
-      "id": "c_z2suhgtmpl3csx7",
-      "name": "seag video 1",
-      "type": "video",
-      "duration": 30,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
       "order": 8,
       "active": true
     },
