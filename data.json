@@ -11,22 +11,22 @@
       "active": true
     },
     {
-      "id": "c_z5c7n8pmpl3722a",
-      "name": "Casa Trabuco Vendida",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "order": 2,
-      "active": true
-    },
-    {
       "id": "c_l07r2mtmpl39vf8",
       "name": "Consejos inmobiliarios",
       "type": "image",
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "c_z5c7n8pmpl3722a",
+      "name": "Casa Trabuco Vendida",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
       "order": 3,
       "active": true
     },
