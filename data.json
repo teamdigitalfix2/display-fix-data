@@ -1,4 +1,20 @@
 {
   "contenidos": [],
-  "solicitudes": []
+  "solicitudes": [
+    {
+      "id": "req_m0ldgstmpl2l7hv",
+      "createdAt": "2026-05-25T10:35:06.931Z",
+      "type": "add",
+      "message": "sdfgsd",
+      "desiredPosition": "sdfgsdfg",
+      "status": "pending"
+    },
+    {
+      "id": "req_8oj0kh4mpl2l7hv",
+      "createdAt": "2026-05-25T10:35:06.931Z",
+      "type": "comment",
+      "message": "Notas para nuevo contenido: sdfgsdfg",
+      "status": "pending"
+    }
+  ]
 }
