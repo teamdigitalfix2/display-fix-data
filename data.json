@@ -51,13 +51,23 @@
       "active": true
     },
     {
+      "id": "c_atw8a2fmpl3c7cb",
+      "name": "livve",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "order": 6,
+      "active": true
+    },
+    {
       "id": "c_cdh4zjumpl3amwj",
       "name": "EXP Realty",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
-      "order": 6,
+      "order": 7,
       "active": true
     },
     {
@@ -67,7 +77,7 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
-      "order": 7,
+      "order": 8,
       "active": true
     },
     {
@@ -77,16 +87,6 @@
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
-      "order": 8,
-      "active": true
-    },
-    {
-      "id": "c_atw8a2fmpl3c7cb",
-      "name": "livve",
-      "type": "video",
-      "duration": 30,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
       "order": 9,
       "active": true
     },
