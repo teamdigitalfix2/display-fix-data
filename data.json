@@ -171,13 +171,5 @@
       "active": true
     }
   ],
-  "solicitudes": [
-    {
-      "id": "req_nqqq14umpl400wr",
-      "createdAt": "2026-05-25T11:14:37.850Z",
-      "type": "add",
-      "message": "te adjunto por email 2 videos nuevos.",
-      "status": "pending"
-    }
-  ]
+  "solicitudes": []
 }
