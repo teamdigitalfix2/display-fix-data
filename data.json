@@ -59,6 +59,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
       "order": 6,
       "active": true
+    },
+    {
+      "id": "c_tcbwswkmpl3b6xz",
+      "name": "la Antilla Promociones",
+      "type": "image",
+      "duration": 20,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20promociones.png?raw=true",
+      "order": 7,
+      "active": true
     }
   ],
   "solicitudes": []
