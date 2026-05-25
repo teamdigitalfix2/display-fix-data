@@ -89,6 +89,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
       "order": 9,
       "active": true
+    },
+    {
+      "id": "c_ghc9sg9mpl3chly",
+      "name": "obre nueva andalucia",
+      "type": "image",
+      "duration": 20,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/obrea%20nueva%20andalucia%C3%A7.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/obrea%20nueva%20andalucia%C3%A7.png?raw=true",
+      "order": 10,
+      "active": true
     }
   ],
   "solicitudes": []
