@@ -1,4 +1,12 @@
 {
   "contenidos": [],
-  "solicitudes": []
+  "solicitudes": [
+    {
+      "id": "req_tsdncommpl2ky1w",
+      "createdAt": "2026-05-25T10:34:54.692Z",
+      "type": "add",
+      "message": "onto",
+      "status": "pending"
+    }
+  ]
 }
