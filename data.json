@@ -159,6 +159,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
       "order": 16,
       "active": true
+    },
+    {
+      "id": "c_mggzqnumpl3er6f",
+      "name": "video vivienda ecologica",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/video%20vivienda%20ecologicas.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/video%20vivienda%20ecologicas.png?raw=true",
+      "order": 17,
+      "active": true
     }
   ],
   "solicitudes": []
