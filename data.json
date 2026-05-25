@@ -109,6 +109,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
       "order": 11,
       "active": true
+    },
+    {
+      "id": "c_1qdk17ompl3d33a",
+      "name": "seag video 2 ",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag2.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag2.png?raw=true",
+      "order": 12,
+      "active": true
     }
   ],
   "solicitudes": []
