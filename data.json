@@ -31,22 +31,22 @@
       "active": true
     },
     {
-      "id": "c_d47dqxzmpl39iaj",
-      "name": "Chalet Rosario",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "order": 4,
-      "active": true
-    },
-    {
       "id": "c_1ey3vvimpl3a7v3",
       "name": "Descubre VVA",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "c_d47dqxzmpl39iaj",
+      "name": "Chalet Rosario",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
       "order": 5,
       "active": true
     },
