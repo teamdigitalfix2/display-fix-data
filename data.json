@@ -99,6 +99,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/obrea%20nueva%20andalucia%C3%A7.png?raw=true",
       "order": 10,
       "active": true
+    },
+    {
+      "id": "c_z2suhgtmpl3csx7",
+      "name": "seag video 1",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "order": 11,
+      "active": true
     }
   ],
   "solicitudes": []
