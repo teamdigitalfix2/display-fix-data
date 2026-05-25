@@ -39,6 +39,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
       "order": 4,
       "active": true
+    },
+    {
+      "id": "c_cdh4zjumpl3amwj",
+      "name": "EXP Realty",
+      "type": "image",
+      "duration": 20,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
+      "order": 5,
+      "active": true
     }
   ],
   "solicitudes": []
