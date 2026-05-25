@@ -11,13 +11,23 @@
       "active": true
     },
     {
+      "id": "c_z2suhgtmpl3csx7",
+      "name": "seag video 1",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "order": 2,
+      "active": true
+    },
+    {
       "id": "c_d47dqxzmpl39iaj",
       "name": "Chalet Rosario",
       "type": "image",
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "order": 2,
+      "order": 3,
       "active": true
     },
     {
@@ -27,16 +37,6 @@
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
-      "order": 3,
-      "active": true
-    },
-    {
-      "id": "c_z2suhgtmpl3csx7",
-      "name": "seag video 1",
-      "type": "video",
-      "duration": 30,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
       "order": 4,
       "active": true
     },
