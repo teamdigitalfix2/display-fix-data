@@ -129,6 +129,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20TAT.png?raw=true",
       "order": 13,
       "active": true
+    },
+    {
+      "id": "c_osyro09mpl3dpn1",
+      "name": "video seguros tat 2",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20tat%202.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20tat%202.png?raw=true",
+      "order": 14,
+      "active": true
     }
   ],
   "solicitudes": []
