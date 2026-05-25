@@ -189,15 +189,6 @@
       "contentName": "Jubenial ",
       "message": "Solicita eliminar \"Jubenial \"",
       "status": "pending"
-    },
-    {
-      "id": "req_5k2603hmpl3reli",
-      "createdAt": "2026-05-25T11:07:55.686Z",
-      "type": "comment",
-      "contentId": "c_cdh4zjumpl3amwj",
-      "contentName": "EXP Realty",
-      "message": "añadir QR y cambiar url",
-      "status": "pending"
     }
   ]
 }
