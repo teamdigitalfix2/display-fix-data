@@ -131,22 +131,22 @@
       "active": true
     },
     {
+      "id": "c_cinv8exmpl3eel1",
+      "name": "video seguro tat moto",
+      "type": "video",
+      "duration": 15,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
+      "order": 14,
+      "active": true
+    },
+    {
       "id": "c_osyro09mpl3dpn1",
       "name": "video seguros tat 2",
       "type": "video",
       "duration": 15,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20tat%202.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20tat%202.png?raw=true",
-      "order": 14,
-      "active": true
-    },
-    {
-      "id": "c_cinv8exmpl3eel1",
-      "name": "video seguro tat moto",
-      "type": "video",
-      "duration": 30,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
       "order": 15,
       "active": true
     },
