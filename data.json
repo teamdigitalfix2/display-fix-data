@@ -49,6 +49,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/exp%20realty.png?raw=true",
       "order": 5,
       "active": true
+    },
+    {
+      "id": "c_zjoqa3qmpl3axma",
+      "name": "Jubenial ",
+      "type": "image",
+      "duration": 20,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/jubenial.png?raw=true",
+      "order": 6,
+      "active": true
     }
   ],
   "solicitudes": []
