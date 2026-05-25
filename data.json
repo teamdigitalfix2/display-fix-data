@@ -11,22 +11,22 @@
       "active": true
     },
     {
-      "id": "c_z5c7n8pmpl3722a",
-      "name": "Casa Trabuco Vendida",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "order": 2,
-      "active": true
-    },
-    {
       "id": "c_atw8a2fmpl3c7cb",
       "name": "livve",
       "type": "video",
       "duration": 30,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "c_z5c7n8pmpl3722a",
+      "name": "Casa Trabuco Vendida",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
       "order": 3,
       "active": true
     },
