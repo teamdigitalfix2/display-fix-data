@@ -21,22 +21,22 @@
       "active": true
     },
     {
-      "id": "c_d47dqxzmpl39iaj",
-      "name": "Chalet Rosario",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "order": 3,
-      "active": true
-    },
-    {
       "id": "c_l07r2mtmpl39vf8",
       "name": "Consejos inmobiliarios",
       "type": "image",
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "c_d47dqxzmpl39iaj",
+      "name": "Chalet Rosario",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
       "order": 4,
       "active": true
     },
