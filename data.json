@@ -1,23 +1,13 @@
 {
   "contenidos": [
     {
-      "id": "c_8pah67ympl341ip",
-      "name": "Casa Trabuco Vendida ",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "mediaUrl": "",
-      "order": 1,
-      "active": true
-    },
-    {
       "id": "c_wwt6o97mpl36fc5",
       "name": "casa trabuco vendi",
       "type": "image",
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png",
       "mediaUrl": "",
-      "order": 2,
+      "order": 1,
       "active": true
     }
   ],
