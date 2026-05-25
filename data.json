@@ -149,6 +149,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seguros%20tat%203.png?raw=true",
       "order": 15,
       "active": true
+    },
+    {
+      "id": "c_cinv8exmpl3eel1",
+      "name": "video seguro tat moto",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/tat%20moto.png?raw=true",
+      "order": 16,
+      "active": true
     }
   ],
   "solicitudes": []
