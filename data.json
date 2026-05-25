@@ -21,13 +21,23 @@
       "active": true
     },
     {
+      "id": "c_atw8a2fmpl3c7cb",
+      "name": "livve",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "order": 3,
+      "active": true
+    },
+    {
       "id": "c_1ey3vvimpl3a7v3",
       "name": "Descubre VVA",
       "type": "image",
       "duration": 20,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/descubre%20vva%20del%20rosario.png?raw=true",
-      "order": 3,
+      "order": 4,
       "active": true
     },
     {
@@ -37,7 +47,7 @@
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/consejos%20inmobiliarios.png?raw=true",
-      "order": 4,
+      "order": 5,
       "active": true
     },
     {
@@ -47,16 +57,6 @@
       "duration": 19,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
-      "order": 5,
-      "active": true
-    },
-    {
-      "id": "c_atw8a2fmpl3c7cb",
-      "name": "livve",
-      "type": "video",
-      "duration": 30,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
       "order": 6,
       "active": true
     },
