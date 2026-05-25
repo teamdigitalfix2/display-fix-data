@@ -1,15 +1,4 @@
 {
-  "contenidos": [
-    {
-      "id": "c_wwt6o97mpl36fc5",
-      "name": "casa trabuco vendi",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png",
-      "mediaUrl": "",
-      "order": 1,
-      "active": true
-    }
-  ],
+  "contenidos": [],
   "solicitudes": []
 }
