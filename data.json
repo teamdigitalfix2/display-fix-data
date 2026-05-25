@@ -1,22 +1,22 @@
 {
   "contenidos": [
     {
-      "id": "c_z5c7n8pmpl3722a",
-      "name": "Casa Trabuco Vendida",
-      "type": "image",
-      "duration": 19,
-      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
-      "order": 1,
-      "active": true
-    },
-    {
       "id": "c_z2suhgtmpl3csx7",
       "name": "seag video 1",
       "type": "video",
       "duration": 30,
       "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/seag.png?raw=true",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "c_z5c7n8pmpl3722a",
+      "name": "Casa Trabuco Vendida",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
       "order": 2,
       "active": true
     },
