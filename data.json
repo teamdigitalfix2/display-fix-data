@@ -1,13 +1,4 @@
 {
   "contenidos": [],
-  "solicitudes": [
-    {
-      "id": "req_6essnegmpl2lb3w",
-      "createdAt": "2026-05-25T10:35:11.612Z",
-      "type": "add",
-      "message": "sdfgsdfg",
-      "desiredPosition": "sdfgsdfgsdf",
-      "status": "pending"
-    }
-  ]
+  "solicitudes": []
 }
