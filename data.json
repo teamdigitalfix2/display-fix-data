@@ -9,6 +9,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/casa%20vendida%20trabuco.png?raw=true",
       "order": 1,
       "active": true
+    },
+    {
+      "id": "c_d47dqxzmpl39iaj",
+      "name": "Chalet Rosario",
+      "type": "image",
+      "duration": 19,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/chalet%20rosario.png?raw=true",
+      "order": 2,
+      "active": true
     }
   ],
   "solicitudes": []
