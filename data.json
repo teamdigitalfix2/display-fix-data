@@ -79,6 +79,16 @@
       "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/la%20antilla%20video.png?raw=true",
       "order": 8,
       "active": true
+    },
+    {
+      "id": "c_atw8a2fmpl3c7cb",
+      "name": "livve",
+      "type": "video",
+      "duration": 30,
+      "thumbnailUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "mediaUrl": "https://github.com/teamdigitalfix2/display-fix-data/blob/main/images/livve.png?raw=true",
+      "order": 9,
+      "active": true
     }
   ],
   "solicitudes": []
